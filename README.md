@@ -10,6 +10,3 @@ My name is Surhud (/sur-hood/). I am a recent MSc Computer Science Graduate from
 ### ⚡ Fun facts
 - In my free time, I draw freehand, create digital art, play PC games and write reflective quotes.
 - If you ever visit my portfolio, refreshing the page would change colours.
-
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fsurhud004)
