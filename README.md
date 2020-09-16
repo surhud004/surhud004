@@ -6,6 +6,7 @@ My name is Surhud (/sur-hood/). I am a recent MSc Computer Science Graduate from
 ### 📫 How to reach me
 - 📄 [Professional portfolio](https://surhud004.github.io/)
 - 📧 [Email](mailto:surhud004@gmail.com?subject=Hello%20from%20GitHub)
+- 📺 [YouTube](https://www.youtube.com/channel/UC5YTtdFXW5Bi58Ai5LPXH5Q)
 
 ### ⚡ Fun facts
 - In my free time, I draw freehand, create digital art, play PC games and write reflective quotes.
