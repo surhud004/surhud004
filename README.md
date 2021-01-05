@@ -1,5 +1,5 @@
 ### Hello, friend 👋
-My name is Surhud (/sur-hood/). I graduated from Lakehead University, Canada in May 2020 with a Master's degree in Computer Science. As an enthusiastic and creative developer, I build simple, colourful and beautiful responsive web applications and some amazingly cool Android applications.
+My name is Surhud (/sur-hood/). As an enthusiastic and creative developer, I build simple, colourful and beautiful responsive web applications and some amazingly cool Android applications.
 
 😄 **Pronouns:** He/Him
 
