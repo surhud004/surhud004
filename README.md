@@ -1,5 +1,8 @@
 ### Hello, friend 👋
-My name is Surhud (/sur-hood/). As an enthusiastic and creative developer, I build simple, colourful and beautiful responsive web applications and some amazingly cool Android applications.
+> "Great software engineers are not tied to languages or technologies, because picking up a new one is easy."
+> ~ surhud004
+
+My name is Surhud (/sur-hood/). As an enthusiastic and creative developer, I build simple, colourful and responsive web applications as well as some amazingly cool Android apps.
 
 😄 **Pronouns:** He/Him
 
