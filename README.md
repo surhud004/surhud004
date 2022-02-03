@@ -5,6 +5,6 @@ Hello, my name is Surhud (/sur-hood/) (he/him). As an enthusiastic and creative 
 
 You can reach me fastest via [email](mailto:surhud004@gmail.com?subject=Hello%20from%20GitHub).
 
-
+![](https://github.com/surhud004/surhud004/blob/master/GitHub_Header.png)
 
 <sub>[Website](https://surhud004.github.io/) &nbsp; • &nbsp; [Email](mailto:surhud004@gmail.com?subject=Hello%20from%20GitHub) &nbsp; • &nbsp; [YouTube](https://www.youtube.com/channel/UC5YTtdFXW5Bi58Ai5LPXH5Q)</sub>
