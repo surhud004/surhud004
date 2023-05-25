@@ -3,10 +3,14 @@
 > "Great software engineers are not tied to languages or technologies, because picking up a new one is easy."
 > ~ surhud004
 
-Hello, my name is Surhud (/sur-hood/) (he/him). As an enthusiastic and creative developer, I build simple, colourful and responsive web applications as well as some amazingly cool Android apps. You probably know me because of the [Foodish](https://github.com/surhud004/Foodish) API, but I have some other cool projects here as well, check them out!
+Hello, my name is Surhud (/sur-hood/) (he/him). I am a passionate software developer who has an expertise and a keen interest in Node.js, frameworks like NestJS and REST APIs. For the most part, I love to work on the back-end logic and the infrastructure of a project. In my free time, I like to build some cool side projects just 
+for fun, like this one here -> the [Foodish](https://github.com/surhud004/Foodish) API!
 
-You can reach me fastest via [email](mailto:surhud004@gmail.com?subject=Hello%20from%20GitHub).
+The quickest way to reach me is via 📧 [email](mailto:surhud.bhagali@gmail.com?subject=Hello%20from%20GitHub).
+
+Fun fact:
+The [Foodish](https://github.com/surhud004/Foodish) API has been listed under the largest free APIs collection: [public-apis](https://github.com/public-apis/public-apis#food--drink) and was accepted as a part of the GitHub #hacktoberfest-2020!
 
 ![](https://github.com/surhud004/surhud004/blob/main/GitHub_Header.png)
 
-<sub>[Website](https://surhud004.github.io/) &nbsp; • &nbsp; [Email](mailto:surhud004@gmail.com?subject=Hello%20from%20GitHub) &nbsp; • &nbsp; [YouTube](https://www.youtube.com/@surhud004)</sub>
+<sub>[Website](https://surhud004.github.io/) &nbsp; • &nbsp; [Email](mailto:surhud.bhagali@gmail.com?subject=Hello%20from%20GitHub) &nbsp; • &nbsp; [YouTube](https://www.youtube.com/@surhud004)</sub>
